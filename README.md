@@ -9,6 +9,8 @@ It ingests findings from LLM systems (prompts, APIs, agents), maps them to:
 
 and computes a dynamic risk score with a dashboard.
 
+<img src="/workflow.jpeg" width="900"/>
+
 # Solution
 
 This project builds a serverless AWS platform that:
