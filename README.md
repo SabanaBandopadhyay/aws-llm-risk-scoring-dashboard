@@ -1,4 +1,4 @@
-# Cloud LLM Risk Scoring Dashboard [Prototype Description - no code added yet]
+# Cloud LLM Risk Scoring Dashboard [Prototype Description - no code added]
 
 This project demonstrates a production-style cloud-native security platform that evaluates risks in Large Language Model (LLM) applications.
 
